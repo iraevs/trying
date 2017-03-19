@@ -1,4 +1,3 @@
-
 <!--This is my first project ever--!>
 <!DOCKTYPE html>
 <html>
@@ -6,7 +5,7 @@
 <meta charset="utf-8">
 </head>
 <body>
-<p>how to use this resource?</p>
+<p>Oh, yeah, I understand what shoud I do here to get the result I want.</p>
 
 </body>
 
